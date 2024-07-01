@@ -6,11 +6,11 @@
 <br>
 <h2>Menú conversor de monedas</h2>
 <ol>
-<li>1) Dólar =>> Peso argentino </li>
-<li>2) Peso argentino =>> Dólar</li>
-<li>3) Dólar =>> Real Brasileño </li>
-<li>4) Real Brasileño =>> Dólar </li>
-<li>5) Dólar =>> Peso colombiano </li>
-<li>6) Peso colimbiano =>> Dólar </li>
-<li>7) Salir
+<li> Dólar =>> Peso argentino </li>
+<li> Peso argentino =>> Dólar</li>
+<li> Dólar =>> Real Brasileño </li>
+<li> Real Brasileño =>> Dólar </li>
+<li> Dólar =>> Peso colombiano </li>
+<li> Peso colimbiano =>> Dólar </li>
+<li> Salir
 </ol>
